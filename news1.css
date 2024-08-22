@@ -1,0 +1,28 @@
+body{
+    font-family:Georgia, serif;
+}
+h1{
+    color: #191970;
+    font-size:28px;
+    font-weight:bold;
+}
+p{
+   font-size:18px;
+   line-height:1.6;
+   padding:20px;
+}
+.article-container{
+    background-color:#fae5c0;
+    padding:20px;
+    text-align:justify;
+}
+.article-meta{
+    background-color:#666666;
+    font-style:italic;
+    text-decoration:none;
+    font-size:14px;
+    font-weight:normal;
+}
+span{
+     margin-right: 10px; 
+}
