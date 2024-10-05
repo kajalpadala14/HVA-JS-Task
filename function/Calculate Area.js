@@ -16,16 +16,16 @@ console.log(specifiedArea);
 
 ////////////////////////////////////////////////////////
 
-const calculateAreaFunction = function(width, height) {
-    return width * height;
-};
-const area = calculateAreaFunction(5, 10);
-console.log(area); 
+// const calculateAreaFunction = function(width, height) {
+//     return width * height;
+// };
+// const area = calculateAreaFunction(5, 10);
+// console.log(area); 
 
 ////////////////////////////////////////////////////////
 
-const calculateAreaArrow = (width, height) => width * height;
+// const calculateAreaArrow = (width, height) => width * height;
 
-const area = calculateAreaArrow(5, 10);
+// const area = calculateAreaArrow(5, 10);
 
-console.log(area);
+// console.log(area);
